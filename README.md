@@ -100,7 +100,7 @@ The application consists of the following key components:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contributing
-Contributions are welcome! Please feel free to submit pull requests or open issues for any bugs or feature requests.   
+Contributions are welcome! Please feel free to submit pull requests or open issues for any bugs or feature requests. Â  
 
 ## Acknowledgements
 
