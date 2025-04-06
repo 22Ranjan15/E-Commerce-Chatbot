@@ -9,6 +9,7 @@ list_of_files = [
     "README.md",
     "LICENSE",
     "Data/.gitkeep",
+    "Demo/.gitkeep",
     "Notebooks/experiments.ipynb",
     "Components/__init__.py",
     "Components/data_convertion.py",
