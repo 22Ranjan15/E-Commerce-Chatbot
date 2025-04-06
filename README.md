@@ -71,30 +71,30 @@ The application consists of the following key components:
 ## Project Structure
 ```
 .
-??? .env
-??? .gitignore
-??? README.md
-??? LISENSE
-??? setup.py
-??? requirements.txt
-??? Data/
-?   ??? Mobiles Dataset (2025).csv
-?   ??? .gitkeep
-??? Demo/
-?   ??? .gitkeep
-??? Notebooks/
-?   ??? experiments.ipynb
-??? Components/
-?   ??? __init__.py
-?   ??? data_convertion.py
-?   ??? data_ingestion.py
-?   ??? retrieve_response.py
-??? static/
-?   ??? style.css
-?   ??? script.js
-??? templates/
-?   ??? index.html
-??? app.py
+├── .env
+├── .gitignore
+├── README.md
+├── LISENSE
+├── setup.py
+├── requirements.txt
+├── Data/
+│   ├── Mobiles Dataset (2025).csv
+│   └── .gitkeep
+├── Demo/
+│   └── .gitkeep
+├── Notebooks/
+│   └── experiments.ipynb
+├── Components/
+│   ├── __init__.py
+│   ├── data_convertion.py
+│   ├── data_ingestion.py
+│   └── retrieve_response.py
+├── static/
+│   ├── style.css
+│   └── script.js
+├── templates/
+│   └── index.html
+├── app.py
 ```
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
