@@ -1,0 +1,11 @@
+langchain
+langchain-astradb
+langchain-google-genai
+google-generativeai
+datasets    # Used to convert my data into document format
+pypdf
+python-dotenv
+flask
+pandas
+
+-e .
