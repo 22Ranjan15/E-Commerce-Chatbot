@@ -42,7 +42,7 @@ The application consists of the following key components:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/22Ranjan15/Custom_E-Commerce_Chatbot.git
+    git clone https://github.com/22Ranjan15/E-Commerce-Chatbot.git
     ```
 2. **Install Demendencies:**
     ```bash
